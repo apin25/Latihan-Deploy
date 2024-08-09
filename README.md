@@ -1,11 +1,1 @@
-## MINI CHALLENGE
-
-bikin di routes auth/me seperti ini
-```
-router.get(
-  "/auth/me",
-  authMiddleware,
-  aclMiddleware(["user", "admin"]),
-  authController.me
-);
-```
+## IZIN PAKAI EMAIL YA KANG, ZOHONYA MUTER DOANG DI SAYA
